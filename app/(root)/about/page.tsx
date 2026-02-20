@@ -1,6 +1,6 @@
 const About = () => {
 
-    throw new Error('Not implemented') 
+    // throw new Error('Not implemented') 
     return (
         <main>
             <header>
